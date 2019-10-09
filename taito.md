@@ -1,6 +1,6 @@
-Team Name: **TAITO**
-Topic: **Agriculture**
-Title: **INDAGRO**
+Team Name: **TAITO**<br>
+Topic: **Agriculture**<br>
+Title: **INDAGRO**<br>
 Description: Farmer friendly application, to enrich the knowledge of the farmers regarding modern ways of farming. Notifying farmers with Government initiatives for supporting farmers. Connecting farmers in our country to experts in all over the world.
   
   
