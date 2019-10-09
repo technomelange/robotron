@@ -1,7 +1,7 @@
 Team Name : Atari<br>
 Topic : Health Care<br>
-Title : iClinic<br>
-Descriptions : iClinic is a Web based application through which any user/patient  in case of an emergency can go through the site
+Title : MEDIK - AID<br>
+Descriptions : MEDIK - AID  is a Web based application through which any user/patient  in case of an emergency can go through the site
 and search for the nearby hospital. Will then send an application through the site in order to reserve the bed if available.
 As soon as the patient reaches over there, the time that is generally wasted in all this stuffs will be saved and we
 can start with the procedure immediately saving lives of many.<br>
